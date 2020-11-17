@@ -6,3 +6,9 @@ dependencies:
   - ipywidgets
   - scipy
   - matplotlib
+  - pandas
+  - yahoo_fin
+  - requests
+  - RISE
+  - voila
+  - papermill[all]
